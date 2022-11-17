@@ -1,0 +1,15 @@
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/bin/Debug/net7.0/less_HelloConcole
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/bin/Debug/net7.0/less_HelloConcole.deps.json
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/bin/Debug/net7.0/less_HelloConcole.runtimeconfig.json
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/bin/Debug/net7.0/less_HelloConcole.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/bin/Debug/net7.0/less_HelloConcole.pdb
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/obj/Debug/net7.0/less_HelloConcole.csproj.AssemblyReference.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/obj/Debug/net7.0/less_HelloConcole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/obj/Debug/net7.0/less_HelloConcole.AssemblyInfoInputs.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/obj/Debug/net7.0/less_HelloConcole.AssemblyInfo.cs
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/obj/Debug/net7.0/less_HelloConcole.csproj.CoreCompileInputs.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/obj/Debug/net7.0/less_HelloConcole.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/obj/Debug/net7.0/refint/less_HelloConcole.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/obj/Debug/net7.0/less_HelloConcole.pdb
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/obj/Debug/net7.0/less_HelloConcole.genruntimeconfig.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson01/less_HelloConcole/obj/Debug/net7.0/ref/less_HelloConcole.dll
